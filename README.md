@@ -1,13 +1,15 @@
 ### Hi there 👋
+##Connect with me:
+<a href="https://www.linkedin.com/in/paulo-calanca-109906174/" target="_blank">
+<img align="center" alt="paulo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+
+
 
 <!--
 **PFCalanca/PFCalanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<a href="https://www.linkedin.com/in/paulo-calanca-109906174/" target="_blank">
-<img align="center" alt="paulo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
