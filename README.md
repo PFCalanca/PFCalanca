@@ -31,7 +31,7 @@
 
 <center>
 
-  ![Snake animation](https://github.com/PFCalanca/PFCalanca/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PFCalanca/PFCalanca/blob/output/github-contribution-grid-snake.svg)
 
 </center>
 
