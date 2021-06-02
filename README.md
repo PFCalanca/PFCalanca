@@ -16,7 +16,7 @@
 </a>
 -->
 
-## My skills:
+## Skills ja trabalhadas:
 
 
 
@@ -26,8 +26,14 @@
 
 
 
-
+## Estatísticas do perfil:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PFCalanca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<center>
+
+  ![Snake animation](https://github.com/PFCalanca/PFCalanca/blob/main/github-contribution-grid-snake.svg)
+
+</center>
 
 
 <!--
