@@ -16,7 +16,7 @@
 </a>
 -->
 
-## Skills ja trabalhadas:
+## Linguages ja trabalhadas:
 
 
 
