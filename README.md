@@ -4,7 +4,7 @@
 
 -->
 
-## Connect with me:
+## Contato:
 
 <a href="https://www.linkedin.com/in/paulo-de-freitas-calanca-109906174/" target="_blank">
 <img align="center" alt="paulo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
