@@ -25,18 +25,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-or
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Github" height="40" width="40"  style="max-width:100%;"></img>
 
 
-
-
-
-
 ## Estatísticas do perfil:
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PFCalanca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+<div>
 <center>
 
   ![Snake animation](https://github.com/PFCalanca/PFCalanca/blob/output/github-contribution-grid-snake.svg)
 
 </center>
+</div>
+
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PFCalanca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
 <!--
