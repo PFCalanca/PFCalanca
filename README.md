@@ -1,6 +1,6 @@
 # Hello, Everyone! 👋
 
-I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLuminense_ and technology lover . I am an developer skilled in **Python, Machine learning, Deep Learning and Python frameworks.** . 
+I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLuminense_ and technology lover . I am a developer skilled in **Python, Machine learning, Deep Learning and Python frameworks.** . 
 ### 😊 About me:  
 <p>From a young age, I wanted to learn how software and websites work. As I consider myself a challenge lover, I fell in love with programming.</p>
 
