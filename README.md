@@ -13,12 +13,16 @@ I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLumi
 
 ## Knowledges:
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Github" height="40" width="40" style="max-width:100%;">
-</img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Github"  height="40" width="40" style="max-width:100%;"></img>    
-</img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Github" height="40" width="40"  style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="Github" height="40" width="40"  style="max-width:100%;"></img><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Github" height="40" width="40"  style="max-width:100%;"></img>
+   <img align="center" alt="Mi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mi-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Mi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Mi-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Mi-Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Mi-Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </p>
+<div style="display: inline_block"><br>
+ 
+</div>
 
 ### 📫 How to reach me?
 <!--- - [My Academic Page](notion) --->
