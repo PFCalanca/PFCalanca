@@ -33,16 +33,7 @@ I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLumi
 If you want talk to me, you can send me a message.
 
 
-## Commits:
-<div>
-<center>
 
-  ![Snake animation](https://github.com/PFCalanca/PFCalanca/blob/output/github-contribution-grid-snake.svg)
-
-</center>
-</div>
-
-***
 
 
 
