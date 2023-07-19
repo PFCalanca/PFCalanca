@@ -1,8 +1,9 @@
 # Hello, Everyone! 👋
 
-I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLuminense_ and technology lover . I am a developer skilled in **Python, Data Engineering, Data Science and Python frameworks.**  
+I'm _Paulo Calanca_ and I'm studant of Computer Engineering at _Instituto Federal FLuminense_ and a lover of technology. I am a skilled developer in **Python, Data Engineering, Data Science and Python frameworks.**  
+
 ### 😊 About me:  
-<p>From a young age, I wanted to learn how software and websites work, Then I start study programming and never break off.</p>
+<p>From a young age, I was curious to learn how software and websites work, Eventually I started studing STEM areas and never stopped.</p>
 
 ### 🌱 What do I do and What have I done? 
 
@@ -16,7 +17,7 @@ I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLumi
 ## Skills 🚀
 
 - Exploratory Data Analysis 📊
-- Tools: Scikit-learn, Pandas, NumPy, Selenium, Matplotlib, SQL 🛠️
+- Tools: Scikit-learn, Pandas, NumPy, Matplotlib, SQL 🛠️
 - Data Cleaning and Transformation 🧹
 - Programming Languages: Python and Scala 🐍
 - Databases: MySQL and PostgreSQL 💾
@@ -63,7 +64,7 @@ I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLumi
 
 ## Articles ✍️
 
-Here are some content publications I have written or participated  regarding of data area:
+Here are some content publications I have written or participated in, regarding the data area:
 
 1. 📄 [Engenharia de Dados: o que é, o que faz e um Guia completo](https://www.alura.com.br/artigos/engenharia-dados);
 2. 📄 [Scala para engenharia de dados: primeiros passos](https://www.alura.com.br/artigos/scala-engenharia-dados-primeiros-passos);
@@ -72,7 +73,7 @@ Here are some content publications I have written or participated  regarding of 
 5. 📄 [Kubernetes: conhecendo a orquestração de containers](https://www.alura.com.br/artigos/kubernetes-conhecendo-orquestracao-containers?).
 
 <details>
-<summary>Another articles that I produced</summary>
+<summary>Other articles I produced</summary>
 - <a href='https://www.alura.com.br/empresas/artigos/okr'>📄 O que é OKR? Significado, Exemplo prático, benefícios e cursos</a>
 
 </details>
@@ -84,7 +85,7 @@ Here are some content publications I have written or participated  regarding of 
 
 
 
-If you want talk to me, you can send me a message.
+If you want reach me, send me a message!
 
 
 
