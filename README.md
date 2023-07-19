@@ -24,7 +24,6 @@ I'm _Paulo Calanca_ and I study Computer Engineering at _Instituto Federal FLumi
 - Knowledge in Statistics, Calculus, and Applied Mathematics 📚
 - Airflow, Data Factory
 - Cloud: Azure, AWS, and GCP ☁️
-- Technical English
 
 
 ### Knowledges:
