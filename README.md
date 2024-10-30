@@ -7,9 +7,9 @@ I'm _Paulo Calanca_ and I'm studant of Computer Engineering at _Instituto Federa
 
 ### 🌱 What do I do and What have I done? 
 
-- **Data Engineering content creator [Alura](https://cursos.alura.com.br/user/paulo-calanca)**
+- **Data Engineer at Fortbrasil**
+- Data Engineering content creator [Alura](https://cursos.alura.com.br/user/paulo-calanca)
 - Intern in Data Science at [Alura](https://www.alura.com.br/)
-- Solution architect intern at Alest
 
  
 </div>
