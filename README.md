@@ -20,7 +20,7 @@ I'm _Paulo Calanca_ and I'm studant of Computer Engineering at _Instituto Federa
 - Tools: Scikit-learn, Pandas, NumPy, Matplotlib, SQL 🛠️
 - Data Cleaning and Transformation 🧹
 - Programming Languages: Python and Scala 🐍
-- Databases: MySQL and PostgreSQL 💾
+- Databases: SQL Server,MySQL and PostgreSQL 💾
 - Distributed Processing: Databricks, PySpark 🌟
 - Knowledge in Statistics, Calculus, and Applied Mathematics 📚
 - Airflow, Data Factory
@@ -51,7 +51,7 @@ I'm _Paulo Calanca_ and I'm studant of Computer Engineering at _Instituto Federa
  <!-- Kubernetes -->
  <a href="https://kubernetes.io/pt-br/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  alt="kubernetes" width="40" height="40"/></code></a>
 <!-- Aws -->
- <a href="https://aws.amazon.com/pt/what-is-aws/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></code></a>
+ <a href="https://aws.amazon.com/pt/what-is-aws/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></code></a>
  <!-- Azure -->
  <a href="https://azure.microsoft.com/en-us/homepage-b/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></code></a>
  <!--  -->
