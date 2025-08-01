@@ -1,6 +1,6 @@
 # Hello, Everyone! 👋
 
-I'm **Paulo Calanca**, a Data Engineer passionate about building robust data solutions. Currently, I work in the tourism sector at Bancorbrás, with previous experience in the finance and education industries (including Alura, the largest Edtech in Latin America).
+I'm **Paulo Calanca**, a Data Engineer passionate about building robust data solutions. Currently, I work in the tourism sector at Bancorbrás, with previous experience in the finance and education industries.
 
 ---
 
