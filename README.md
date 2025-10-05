@@ -73,8 +73,3 @@ Some articles I have written or contributed to:
 
 If you want to connect or chat about data, tech, or collaboration, just send me a message!
 
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PFCalanca&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
