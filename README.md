@@ -1,6 +1,6 @@
 # Hello, Everyone! 👋
 
-I'm **Paulo Calanca**, a Data Engineer passionate about building robust data solutions. Currently, I work in the tourism sector at Bancorbrás, with previous experience in the finance and education industries.
+I'm **Paulo Calanca**, a Data Engineer passionate about building robust data solutions. Currently, I am currently a Data Engineer at AB InBev, focusing on architecting robust data solutions at scale, with previous experience in the finance and education industries.
 
 ---
 
@@ -12,7 +12,8 @@ Since I was young, I've been curious about how technology works. This curiosity 
 
 ## 🌱 What am I doing now?
 
-- **Data Engineer at Bancorbrás (Tourism sector)**
+- **Data Engineer at AB InBev**
+- Data Engineer at Bancorbrás (Tourism sector)
 - Former Data Engineer at FortBrasil (Finance)
 - Data Engineering content creator at [Alura](https://cursos.alura.com.br/user/paulo-calanca)
 - Data Science Intern at [Alura](https://www.alura.com.br/)
